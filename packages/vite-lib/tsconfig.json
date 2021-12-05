@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "strict": true,
+    "allowJs": true,
+    "isolatedModules": true,
+    "useDefineForClassFields": true,
+    "moduleResolution": "node",
+    "jsx": "react-jsx",
+    "rootDir": "src",
+    "outDir": "dist",
+    "declaration": true,
+    "resolveJsonModule": true,
+    "composite": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
