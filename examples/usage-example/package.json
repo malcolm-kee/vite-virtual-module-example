@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "vite-lib"
+    "dev": "vite-lib dev",
+    "build": "vite-lib build"
   },
   "dependencies": {
     "react": "^17.0.2",
